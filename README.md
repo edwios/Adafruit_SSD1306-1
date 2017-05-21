@@ -1,8 +1,8 @@
-# D-Durino OLED driver
+# D-Duino OLED driver
 
 ## Forked from Adafruit_SSD1306 OLED driver for 128x64 OLEDs.
 
-This version is special customized for the D-Durino (ESP32 with built-in OLED display).
+This version is special customized for the D-Duino (ESP32 with built-in OLED display).
 
 The major difference is the I2C pins (SDA=5, SCL=4) and address (0x3C).
 
